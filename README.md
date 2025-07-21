@@ -1,6 +1,8 @@
 📌 TaskMaster - Gestionnaire de Tâches
 Une application web moderne pour organiser vos tâches quotidiennes avec élégance et efficacité.
-<img width="900" height="320" alt="image" src="https://github.com/user-attachments/assets/3c903f69-a3a6-4051-a7f9-55c042c1619e" />
+
+<img width="900" height="439" alt="image" src="https://github.com/user-attachments/assets/0d1a7681-426f-4e09-8b95-3867315b29b3" />
+<img width="900" height="436" alt="image" src="https://github.com/user-attachments/assets/ff57f1d6-e0fb-48a4-8af7-0cfc2841eb29" />
 
 
 ✨ Fonctionnalités
